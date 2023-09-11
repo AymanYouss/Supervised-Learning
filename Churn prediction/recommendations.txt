@@ -1,0 +1,19 @@
+## Future Investigations and Recommendations:
+
+1. Investigation into High Customer Service Calls:
+   - Further investigation should be conducted to analyze the characteristics and behaviors of customers who make multiple calls to customer service.
+   - Identify the root causes behind the need for numerous calls and explore potential issues or challenges faced by these customers.
+  
+2. Retention Efforts for International Plan Holders:
+   - Given the high churn rate of over 42% among international plan holders, it is crucial to focus on retention strategies for this customer segment.
+   - Conduct a comprehensive analysis of the factors contributing to churn among international plan holders, such as pricing, service quality, or competitive offerings.
+
+3. Investigation into High Churn States:
+   - Perform an in-depth investigation of states with high churn rates to identify common trends and factors influencing customer attrition.
+   - Analyze market dynamics, competitive landscape, customer preferences, and regional demographics to understand the underlying causes of high churn.
+  
+
+4. Incentives for Customers with High Day Charges:
+   - Explore the reasons why customers with total day charges over $55 have a 100% churn rate and investigate potential areas of dissatisfaction.
+   - Design incentive programs to retain customers with high day charges by offering additional value, perks, or benefits.
+  
